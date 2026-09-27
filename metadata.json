@@ -1,0 +1,5 @@
+{
+  "name": "Remix: NotebookLM Slide Editor",
+  "description": "A professional AI-powered slide editor that converts PDFs to high-res images, allows OCR-based Korean text replacement, and features advanced canvas manipulation tools like zooming and handle-based resizing.",
+  "requestFramePermissions": []
+}
